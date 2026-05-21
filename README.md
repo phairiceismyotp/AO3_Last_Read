@@ -22,7 +22,7 @@ The project is unofficial and is not affiliated with Archive of Our Own, the Org
 - `PRIVACY.md` - privacy notes and disclaimer.
 - `AI_AUDIT_GUIDE.md` - guide for reviewing the code with AI before installation.
 
-## How It Works
+## How it works
 
 `ao3-last-read.user.js` runs on AO3 pages through Tampermonkey.
 
@@ -32,7 +32,7 @@ On AO3 pages with work cards, it reads the saved summary data and adds a small `
 
 The script does not contact any external service.
 
-## Video Demo
+## Video demo
 
 <p align="center">
   <video src="assets/ao3_last_read_demo.mp4" controls width="720">
