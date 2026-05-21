@@ -2,7 +2,7 @@
 
 AO3 Last Read
 
-Copyright (c) 2026 phairiceismyotp (or3zz)
+Copyright (c) 2026 phairiceismyotp (or3zz - Nguyen Tin)
 
 This project is licensed under the GNU Affero General Public License version 3 only.
 See the repository `LICENSE` file for the full license text.
