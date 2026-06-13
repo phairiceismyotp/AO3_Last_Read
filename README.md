@@ -4,6 +4,18 @@ AO3 Last Read is a Tampermonkey userscript that saves and resumes reading progre
 
 The project is unofficial and is not affiliated with Archive of Our Own, the Organization for Transformative Works, or Tampermonkey.
 
+## Video tutorial
+
+[Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=kEleAPc5jN4)
+
+The tutorial uses real AO3 data for an objective demonstration:
+
+- Work: [And thus I choose you, my only universe](https://archiveofourown.org/works/67745956)
+- Author: [VanToRia](https://archiveofourown.org/users/VanToRia/pseuds/VanToRia)
+- Series: [The Death and the Pale Dawn](https://archiveofourown.org/series/4966846)
+
+The referenced work, author profile, and series belong to their respective AO3 creator.
+
 ## Features
 
 - Saves reading progress on AO3 works, chapters, and Entire Work view.
@@ -31,18 +43,6 @@ On work pages, it tracks the reader's current story-text position and stores pro
 On AO3 pages with work cards, it reads the saved summary data and adds a small `Last read` badge beside the work date.
 
 The script does not contact any external service.
-
-## Video demo
-
-[Watch the demo video on YouTube](https://www.youtube.com/watch?v=6gxV5etikmE)
-
-The demo uses real AO3 data for an objective demonstration:
-
-- Work: [From You, A Whisper of Hope](https://archiveofourown.org/works/68383601/chapters/176976881)
-- Author: [VanToRia](https://archiveofourown.org/users/VanToRia/pseuds/VanToRia)
-- Series: [The Death and the Pale Dawn](https://archiveofourown.org/series/4966846)
-
-The referenced work, author profile, and series belong to their respective AO3 creator.
 
 ## Installation
 
