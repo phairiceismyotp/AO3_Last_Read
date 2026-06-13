@@ -34,13 +34,7 @@ The script does not contact any external service.
 
 ## Video demo
 
-<p align="center">
-  <video src="assets/ao3_last_read_demo.mp4" controls width="720">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-[Watch the demo video](assets/ao3_last_read_demo.mp4)
+[Watch the demo video on YouTube](https://www.youtube.com/watch?v=6gxV5etikmE)
 
 The demo uses real AO3 data for an objective demonstration:
 
