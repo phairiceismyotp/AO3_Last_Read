@@ -4,6 +4,21 @@ AO3 Last Read is a Tampermonkey userscript that saves and resumes reading progre
 
 The project is unofficial and is not affiliated with Archive of Our Own, the Organization for Transformative Works, or Tampermonkey.
 
+<p align="center">
+  <img src="assets/ao3_last_read.gif" alt="AO3 Bulk Downloader" width="720">
+</p>
+
+<p align="center">
+  <img src="assets/ao3_last_read.PNG" alt="AO3 Bulk Downloader" width="720">
+</p>
+
+The image and gif uses real AO3 data for an objective demonstration:
+
+- Work: [The Blazing Sun That Dreams of Coffee](https://archiveofourown.org/works/74057676/chapters/193207636)
+- Author: [Infiniti_Ophis](https://archiveofourown.org/users/Infiniti_Ophis/pseuds/Infiniti_Ophis)
+
+The referenced work and author profile belong to their respective AO3 creator.
+
 ## Video tutorial
 
 [Watch the step-by-step installation guide on YouTube](https://www.youtube.com/watch?v=kEleAPc5jN4)
